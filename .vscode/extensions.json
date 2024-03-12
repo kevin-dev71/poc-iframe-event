@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "WallabyJs.console-ninja",
+    "redhat.vscode-yaml",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode.vscode-typescript-next"
+  ],
+  "unwantedRecommendations": []
+}
